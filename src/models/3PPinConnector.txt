@@ -1,0 +1,14 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"826925-3";"";
+"TraceParts.PartVersion";"1.0.0";"";
+"SUPPLIER";"TE Connectivity";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"10-27072018-132757";"";
+"Alias_1";"";"";
+"DESIGN";"03P MODU 2 PIN HDR.";"";
+"TraceParts.InstanceId";"10-27072018-132757824LNC8NUBHQ5Q7YDPU1569P3";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartTitle";"Multiple Configuration PCB Headers & Receptacles";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"TE_CONNECTIVITY_GLOBAL:10-27072018-132757";"";

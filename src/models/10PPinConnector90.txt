@@ -1,0 +1,15 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"1-826634-0";"";
+"Alias_2";"";"";
+"TraceParts.PartVersion";"1.0.0";"";
+"SUPPLIER";"TE Connectivity";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"10-27072018-132779";"";
+"Alias_1";"";"";
+"DESIGN";"MOD2 PIN HEADER 10P";"";
+"TraceParts.InstanceId";"10-27072018-1327791GE8EA4SP0JMT0ZXV0FFKGHV8";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartTitle";"Multiple Configuration PCB Headers & Receptacles";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"TE_CONNECTIVITY_GLOBAL:10-27072018-132779";"";

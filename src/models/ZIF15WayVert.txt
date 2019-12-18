@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-06072016-108654";"";
+"REFERENCE";"52610-1571";"";
+"TraceParts.PartTitle";"Receptacle,1mm FFC/FPC,SMT,vert,ZIF,15w";"";
+"TraceParts.InstanceId";"10-06072016-1086548TFESEFRJCE72EXEAQ0ME0NQG";"";
+"DESIGN";"Receptacle,1mm FFC/FPC,SMT,vert,ZIF,15w";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"molex";"";
+"TraceParts.PartVersion";"1.0.0";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"MOLEX:10-06072016-108654";"";

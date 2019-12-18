@@ -1,0 +1,15 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"5558250-1";"";
+"Alias_2";"";"";
+"TraceParts.PartVersion";"1.0.0";"";
+"SUPPLIER";"TE Connectivity";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"10-30072018-074304";"";
+"Alias_1";"";"";
+"DESIGN";"MJ,R/A,8P,SHLD,PCB GRD";"";
+"TraceParts.InstanceId";"10-30072018-074304CWTI9U6H25TQ1QN9W4GRTNK00";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartTitle";"RJ45 Connectors";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"TE_CONNECTIVITY_GLOBAL:10-30072018-074304";"";

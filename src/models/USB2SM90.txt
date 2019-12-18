@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-28072018-059294";"";
+"REFERENCE";"1932638-2";"";
+"TraceParts.PartTitle";"USB Connectors";"";
+"TraceParts.InstanceId";"10-28072018-059294BXBPPT527IAZJOM91Y9TNHMIU";"";
+"DESIGN";"USB 2.0 TYPE A RECEPTACLE SMT";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"TE Connectivity";"";
+"TraceParts.PartVersion";"1.0.0";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"TE_CONNECTIVITY_GLOBAL:10-28072018-059294";"";

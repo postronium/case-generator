@@ -1,0 +1,76 @@
+{
+  "name": "rpi-case-web",
+  "version": "1.0.0",
+  "description": "Parametric Raspberry pi case Generator",
+  "main": "index.html",
+  "dependencies": {
+    "@types/react": "^16.4.1",
+    "@types/react-dom": "^16.4.1",
+    "@types/react-redux": "^7.1.2",
+    "@types/sat": "0.0.29",
+    "@types/three": "^0.84.37",
+    "@types/webvr-api": "0.0.35",
+    "bootstrap": "^4.0.0-alpha.6",
+    "buckets-js": "^1.98.2",
+    "file-saver": "^1.3.8",
+    "gulp": "^3.9.1",
+    "immer": "^4.0.0",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-stripe-elements": "^4.0.0",
+    "sat": "^0.7.1",
+    "supports-color": "^7.0.0",
+    "three-js-csg": "^72.0.0",
+    "threejs-export-stl": "0.0.4"
+  },
+  "devDependencies": {
+    "@types/chai": "^4.1.4",
+    "@types/mocha": "^5.2.4",
+    "@types/node": "^12.7.5",
+    "awesome-typescript-loader": "^5.0.0",
+    "babel-minify-webpack-plugin": "^0.3.1",
+    "chai": "^4.1.2",
+    "miniq": "^1.0.1",
+    "mocha": "^5.2.0",
+    "react-redux": "^5.0.7",
+    "react-redux-typescript": "^3.0.0-rc.3",
+    "redux": "^4.0.0",
+    "redux-typescript": "^1.2.1",
+    "source-map-loader": "^0.2.3",
+    "ts-node": "^7.0.0",
+    "typedoc": "^0.10.0",
+    "typescript": "^3.6.3",
+    "typings": "^2.1.1",
+    "uglifyjs-webpack-plugin": "^1.0.0-rc.0",
+    "webpack": "^4.8.3",
+    "webpack-cli": "^2.1.3",
+    "yargs": "^13.3.0"
+  },
+  "scripts": {
+    "test": "mocha -r ts-node/register src/mesh-simplificator/EdgeOctreeTest.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/postronium/rpi-case-web.git"
+  },
+  "keywords": [
+    "Raspberry",
+    "PI",
+    "Case",
+    "Generator",
+    "Typescript",
+    "ReactJS",
+    "THREEJS",
+    "WegGL",
+    "3D Printing",
+    "3D",
+    "Arduino",
+    "Electronics"
+  ],
+  "author": "Adrian Buntschu",
+  "license": "GPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/postronium/case-generator"
+  },
+  "homepage": "https://github.com/postronium/case-generator#readme"
+}

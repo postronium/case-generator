@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"30-19012018-070982";"";
+"REFERENCE";"ICK S 17 x 17 x 15";"";
+"TraceParts.PartTitle";"ICK S 17 x 17 x 15, Stiftkühlkörper, Bauform: quadratisch, 17 x 17 x 15 mm  (B x L x H)";"";
+"TraceParts.InstanceId";"30-19012018-070982EYXQABXKN8BE4AXWDI514X3LR";"";
+"DESIGN";"Stiftkühlkörper";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"Fischer Elektronik GmbH & Co. KG";"";
+"TraceParts.PartVersion";"1.0.1";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"de";"";
+"TraceParts.ClassPath";"FISCHERELEKTRONIK:30-19012018-070982";"";

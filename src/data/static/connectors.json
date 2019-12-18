@@ -1,0 +1,1570 @@
+{"connectors" : [
+    {
+        "name": "MicroHDMI",
+        "3dModel": "MicroHDMI",
+        "originTo": "side",
+        "topBoxes" : [],
+        "bottomBoxes" : [],
+        "sideBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 75, "y": 90, "z": 40},
+                "offset": {"x": 0, "y": -45, "z": 15}
+            }
+        ],
+        "sideBoxesMaleShape" : [
+            {
+                "shape": "box",
+                "box": {"x": 185, "y": 120, "z": 91},
+                "offset": {"x": 0, "y": 22, "z": 32}
+            }
+        ],
+        "sideBoxesHole": [
+            {
+                "shape": "box",
+                "box": {"x": 75, "y": 90, "z": 40},
+                "offset": {"x": 0, "y": 0, "z": 15}
+            }
+        ],
+        "topBoxesHole": [],
+        "bottomBoxesHole": []
+    },
+    {
+        "name": "HDMI",
+        "3dModel": "HDMITypeA",
+        "originTo": "side",
+        "topBoxes" : [],
+        "bottomBoxes" : [],
+        "sideBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 155, "y": 120, "z": 65},
+                "offset": {"x": 0, "y": -60, "z": 32}
+            }
+        ],
+        "sideBoxesMaleShape" : [
+            {
+                "shape": "box",
+                "box": {"x": 185, "y": 120, "z": 91},
+                "offset": {"x": 0, "y": 22, "z": 32}
+            }
+        ],
+        "sideBoxesHole": [
+            {
+                "shape": "box",
+                "box": {"x": 155, "y": 300, "z": 65},
+                "offset": {"x": 0, "y": 0, "z": 32}
+            }
+        ],
+        "topBoxesHole": [],
+        "bottomBoxesHole": []
+    },
+    {
+        "name": "MiniHDMI",
+        "3dModel": "MiniHDMI",
+        "originTo": "side",
+        "topBoxes" : [],
+        "bottomBoxes" : [],
+        "sideBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 115, "y": 80, "z": 35},
+                "offset": {"x": 0, "y": 0, "z": 16}
+            }
+        ],
+        "sideBoxesMaleShape" : [
+            {
+                "shape": "box",
+                "box": {"x": 145, "y": 80, "z": 65},
+                "offset": {"x": 0, "y": 15, "z": -15}
+            }
+        ],
+        "sideBoxesHole": [],
+        "topBoxesHole": [],
+        "bottomBoxesHole": []
+    },
+    {
+        "name": "Jack",
+        "3dModel": "Jack3.5mm",
+        "originTo": "side",
+        "topBoxes" : [],
+        "bottomBoxes" : [],
+        "sideBoxes" : [
+            {
+                "shape": "cylinder",
+                "d": 70,
+                "h": 150,
+                "offset": {"x": 0, "y": -45, "z": 27}
+            }
+        ],
+        "sideBoxesMaleShape" : [],
+        "sideBoxesHole": [
+            {
+                "shape": "cylinder",
+                "d": 70,
+                "h": 300,
+                "offset": {"x": 0, "y": -30, "z": 27}
+            }
+        ],
+        "topBoxesHole": [],
+        "bottomBoxesHole": []
+    },
+    {
+        "name": "MicroUSB",
+        "3dModel": "USB2TypeMicroB90",
+        "originTo": "side",
+        "topBoxes" : [],
+        "bottomBoxes" : [],
+        "sideBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 80, "y": 65, "z": 35},
+                "offset": {"x": 0, "y": -22, "z": 11}
+            }
+        ],
+        "sideBoxesMaleShape" : [
+            {
+                "shape": "box",
+                "box": {"x": 105, "y": 65, "z": 60},
+                "offset": {"x": 0, "y": -22, "z": 11}
+            }
+        ],
+        "sideBoxesHole": [
+            {
+                "shape": "box",
+                "box": {"x": 80, "y": 300, "z": 35},
+                "offset": {"x": 0, "y": -22, "z": 11}
+            }
+        ],
+        "topBoxesHole": [],
+        "bottomBoxesHole": []
+    },
+    {
+        "name": "GPIO40Top",
+        "3dModel": "2x20PinConnector",
+        "shape": "box",
+        "originTo": "pcb",
+        "topBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 520, "y": 70, "z": 100},
+                "offset": {"x": 0, "y": 0, "z": 0}
+            }
+        ],
+        "bottomBoxes" : [],
+        "sideBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 540, "y": 120, "z": 55},
+                "offset": {"x": 0, "y": -120, "z": 100}
+            }
+        ],
+        "sideBoxesMaleShape" : [],
+        "sideBoxesHole": [],
+        "topBoxesHole": [
+            {
+                "shape": "box",
+                "box": {"x": 520, "y": 70, "z": 500},
+                "offset": {"x": 0, "y": 0, "z": 0}
+            }
+        ],
+        "bottomBoxesHole": []
+    },
+    {
+        "name": "GPIO40",
+        "3dModel": "",
+        "shape": "box",
+        "originTo": "side",
+        "topBoxes" : [],
+        "bottomBoxes" : [],
+        "sideBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 540, "y": 120, "z": 55},
+                "offset": {"x": 0, "y": -120, "z": 100}
+            }
+        ],
+        "sideBoxesMaleShape" : [],
+        "sideBoxesHole": [
+            {
+                "shape": "box",
+                "box": {"x": 540, "y": 120, "z": 55},
+                "offset": {"x": 0, "y": 0, "z": 100}
+            }
+        ],
+        "topBoxesHole": [],
+        "bottomBoxesHole": []
+    },
+    {
+        "name": "MicroSD",
+        "originTo": "side",
+        "topBoxes" : [],
+        "bottomBoxes" : [],
+        "sideBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 120, "y": 180, "z": 40},
+                "offset": {"x": 0, "y": 0, "z": -20}
+            }
+        ],
+        "sideBoxesMaleShape" : [],
+        "sideBoxesHole": [
+            {
+                "shape": "box",
+                "box": {"x": 120, "y": 180, "z": 40},
+                "offset": {"x": 0, "y": 0, "z": -20}
+            }
+        ],
+        "topBoxesHole": [],
+        "bottomBoxesHole": []
+    },
+    {
+        "name": "USBBlock2",
+        "3dModel": "USBA90HorizontalX2",
+        "originTo": "side",
+        "topBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 135, "y": 173, "z": 160},
+                "offset": {"x": 0, "y": -86, "z": 80}
+            },
+            {
+                "shape": "box",
+                "box": {"x": 165, "y": 15, "z": 165},
+                "offset": {"x": 0, "y": -7, "z": 80}
+            }
+        ],
+        "bottomBoxes" : [],
+        "sideBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 133, "y": 180, "z": 160},
+                "offset": {"x": 0, "y": -90, "z": 80}
+            }
+        ],
+        "sideBoxesMaleShape" : [
+            {
+                "shape": "box",
+                "box": {"x": 159, "y": 180, "z": 182},
+                "offset": {"x": -13, "y": 30, "z": -11}
+            }
+        ],
+        "sideBoxesHole": [
+            {
+                "shape": "box",
+                "box": {"x": 133, "y": 180, "z": 160},
+                "offset": {"x": 0, "y": 0, "z": 80}
+            }
+        ],
+        "topBoxesHole": [],
+        "bottomBoxesHole": []
+    },
+    {
+        "name": "RJ45",
+        "3dModel": "RJ4590",
+        "originTo": "side",
+        "topBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 163, "y": 221, "z": 140},
+                "offset": {"x": 0, "y": -110, "z": 70}
+            }
+        ],
+        "bottomBoxes" : [],
+        "sideBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 140, "y": 220, "z": 130},
+                "offset": {"x": 0, "y": -110, "z": 65}
+            }
+        ],
+        "sideBoxesMaleShape" : [],
+        "sideBoxesHole": [
+            {
+                "shape": "box",
+                "box": {"x": 140, "y": 220, "z": 130},
+                "offset": {"x": 0, "y": 0, "z": 65}
+            }
+        ],
+        "topBoxesHole": [],
+        "bottomBoxesHole": []
+    },
+    {
+        "name": "USB4Lan",
+        "originTo": "side",
+        "topBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 420, "y": 800, "z": 160},
+                "offset": {"x": 0, "y": 0, "z": 0}
+            }
+        ],
+        "bottomBoxes" : [],
+        "sideBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 420, "y": 800, "z": 160},
+                "offset": {"x": 0, "y": 0, "z": 0}
+            }
+        ],
+        "sideBoxesMaleShape" : [],
+        "sideBoxesHole": [],
+        "topBoxesHole": [
+            {
+                "shape": "box",
+                "box": {"x": 420, "y": 800, "z": 160},
+                "offset": {"x": 0, "y": 0, "z": 100}
+            }
+        ],
+        "bottomBoxesHole": []
+    },
+    {
+        "name": "ZIF 15 Vertical",
+        "3dModel": "ZIF15WayVert",
+        "originTo": "pcb",
+        "topBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 180, "y": 30, "z": 70},
+                "offset": {"x": 0, "y": 0, "z": 0}
+            }
+        ],
+        "bottomBoxes" : [],
+        "sideBoxes" : [],
+        "sideBoxesMaleShape" : [],
+        "sideBoxesHole": [],
+        "topBoxesHole": [
+            {
+                "shape": "box",
+                "box": {"x": 180, "y": 30, "z": 1000},
+                "offset": {"x": 0, "y": 0, "z": 60}
+            }
+        ],
+        "bottomBoxesHole": []
+    },
+    {
+        "name": "ZIF 15 Horizontal",
+        "3dModel": "ZIF15WayVert90",
+        "originTo": "side",
+        "topBoxes" : [],
+        "bottomBoxes" : [],
+        "sideBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 180, "y":50, "z": 25},
+                "offset": {"x": 0, "y": -25, "z": 10}
+            }
+        ],
+        "sideBoxesMaleShape" : [],
+        "sideBoxesHole": [
+            {
+                "shape": "box",
+                "box": {"x": 180, "y":500, "z": 25},
+                "offset": {"x": 0, "y": -25, "z": 10}
+            }
+        ],
+        "topBoxesHole": [],
+        "bottomBoxesHole": []
+    },
+    {
+        "name": "BROADCOMRpi3",
+        "originTo": "pcb",
+        "topBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 160, "y": 160, "z": 70},
+                "offset": {"x": 0, "y": 0, "z": 0}
+            }
+        ],
+        "bottomBoxes" : [],
+        "sideBoxes" : [],
+        "sideBoxesMaleShape" : [],
+        "sideBoxesHole": [],
+        "topBoxesHole": [],
+        "bottomBoxesHole": []
+    },
+    {
+        "name": "GPIO26Top",
+        "3dModel": "13PPinConnector",
+        "originTo": "pcb",
+        "topBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 330, "y": 60, "z": 100},
+                "offset": {"x": 0, "y": 0, "z": 0}
+            }
+        ],
+        "bottomBoxes" : [],
+        "sideBoxes" : [],
+        "sideBoxesMaleShape" : [],
+        "sideBoxesHole": [],
+        "topBoxesHole": [],
+        "bottomBoxesHole": []
+    },
+    {
+        "name": "GPIO26",
+        "originTo": "side",
+        "topBoxes" : [],
+        "bottomBoxes" : [],
+        "sideBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 120, "y": 330, "z": 40},
+                "offset": {"x": 0, "y": 0, "z": 0}
+            }
+        ],
+        "sideBoxesMaleShape" : [],
+        "sideBoxesHole": [],
+        "topBoxesHole": [],
+        "bottomBoxesHole": []
+    },
+    {
+        "name": "USB3",
+        "3dModel": "usb3",
+        "originTo": "side",
+        "topBoxes" : [],
+        "bottomBoxes" : [],
+        "sideBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 182, "y": 152, "z": 79},
+                "offset": {"x": 0, "y": 0, "z": 0}
+            }
+        ],
+        "sideBoxesMaleShape" : [],
+        "sideBoxesHole": [],
+        "topBoxesHole": [],
+        "bottomBoxesHole": []
+    },
+    {
+        "name": "13x2 Pin Connector",
+        "3dModel": "13PPinConnector",
+        "originTo": "pcb",
+        "topBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 330, "y": 50, "z": 100},
+                "offset": {"x": 0, "y": 0, "z": 50}
+            }
+        ],
+        "bottomBoxes" : [],
+        "sideBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 330, "y": 50, "z": 100},
+                "offset": {"x": 0, "y": 0, "z": 0}
+            }
+        ],
+        "sideBoxesMaleShape" : [],
+        "sideBoxesHole": [],
+        "topBoxesHole": [
+            {
+                "shape": "box",
+                "box": {"x": 330, "y": 50, "z": 500},
+                "offset": {"x": 0, "y": 0, "z": 250}
+            }
+        ],
+        "bottomBoxesHole": []
+    },
+    {
+        "name": "13x2 Pin Connector 90",
+        "3dModel": "13PPinConnector90",
+        "originTo": "side",
+        "topBoxes" : [],
+        "bottomBoxes" : [],
+        "sideBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 140, "y": 330, "z": 60},
+                "offset": {"x": 0, "y": 0, "z": 0}
+            }
+        ],
+        "sideBoxesMaleShape" : [],
+        "sideBoxesHole": [],
+        "topBoxesHole": [],
+        "bottomBoxesHole": []
+    },
+    {
+        "name": "RJ45 (LAN)",
+        "3dModel": "RJ4590",
+        "originTo": "side",
+        "topBoxes" : [],
+        "bottomBoxes" : [],
+        "sideBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 185, "y": 180, "z": 130},
+                "offset": {"x": 0, "y": 0, "z": 0}
+            }
+        ],
+        "sideBoxesMaleShape" : [],
+        "sideBoxesHole": [],
+        "topBoxesHole": [],
+        "bottomBoxesHole": []
+    },
+    {
+        "name": "USB2 Typ A Stack of 2",
+        "3dModel": "USBA90HorizontalX2",
+        "originTo": "side",
+        "topBoxes" : [],
+        "bottomBoxes" : [],
+        "sideBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 170, "y": 150, "z": 160},
+                "offset": {"x": 0, "y": 0, "z": 0}
+            }
+        ],
+        "sideBoxesMaleShape" : [],
+        "sideBoxesHole": [],
+        "topBoxesHole": [],
+        "bottomBoxesHole": []
+    },
+    {
+        "name": "3x2 Pin Connector",
+        "3dModel": "3PPinConnector",
+        "originTo": "pcb",
+        "topBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 85, "y": 58, "z": 100},
+                "offset": {"x": 0, "y": 0, "z": 50}
+            }
+        ],
+        "bottomBoxes" : [],
+        "sideBoxes" : [],
+        "sideBoxesMaleShape" : [],
+        "sideBoxesHole": [],
+        "topBoxesHole": [
+            {
+                "shape": "box",
+                "box": {"x": 85, "y": 55, "z": 500},
+                "offset": {"x": 0, "y": 0, "z": 250}
+            }
+        ],
+        "bottomBoxesHole": []
+    },
+    {
+        "name": "4x2 Pin Connector",
+        "3dModel": "4PPinConnector",
+        "originTo": "pcb",
+        "topBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 105, "y": 54, "z": 100},
+                "offset": {"x": 0, "y": 0, "z": 50}
+            }
+        ],
+        "bottomBoxes" : [],
+        "sideBoxes" : [],
+        "sideBoxesMaleShape" : [],
+        "sideBoxesHole": [],
+        "topBoxesHole": [
+            {
+                "shape": "box",
+                "box": {"x": 105, "y": 54, "z": 500},
+                "offset": {"x": 0, "y": 0, "z": 250}
+            }
+        ],
+        "bottomBoxesHole": []
+    },
+    {
+        "name": "2x1 Pin Connector",
+        "3dModel": "2SPinConnector",
+        "originTo": "pcb",
+        "topBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 54, "y": 28, "z": 100},
+                "offset": {"x": 0, "y": 0, "z": 50}
+            }
+        ],
+        "bottomBoxes" : [],
+        "sideBoxes" : [],
+        "sideBoxesMaleShape" : [],
+        "sideBoxesHole": [],
+        "topBoxesHole": [
+            {
+                "shape": "box",
+                "box": {"x": 54, "y": 28, "z": 500},
+                "offset": {"x": 0, "y": 0, "z": 250}
+            }
+        ],
+        "bottomBoxesHole": []
+    },
+    {
+        "name": "4x1 Pin Connector",
+        "3dModel": "4SPinConnector",
+        "originTo": "pcb",
+        "topBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 110, "y": 32, "z": 100},
+                "offset": {"x": 0, "y": 0, "z": 50}
+            }
+        ],
+        "bottomBoxes" : [],
+        "sideBoxes" : [],
+        "sideBoxesMaleShape" : [],
+        "sideBoxesHole": [],
+        "topBoxesHole": [
+            {
+                "shape": "box",
+                "box": {"x": 110, "y": 34, "z": 500},
+                "offset": {"x": 0, "y": 0, "z": 250}
+            }
+        ],
+        "bottomBoxesHole": []
+    },
+    {
+        "name": "1x8 Pin Connector",
+        "3dModel": "8SPinConnector",
+        "originTo": "pcb",
+        "topBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 220, "y": 30, "z": 100},
+                "offset": {"x": 0, "y": 0, "z": 50}
+            }
+        ],
+        "bottomBoxes" : [],
+        "sideBoxes" : [],
+        "sideBoxesMaleShape" : [],
+        "sideBoxesHole": [],
+        "topBoxesHole": [
+            {
+                "shape": "box",
+                "box": {"x": 220, "y": 30, "z": 500},
+                "offset": {"x": 0, "y": 0, "z": 250}
+            }
+        ],
+        "bottomBoxesHole": []
+    },
+    {
+        "name": "1x7 Pin Connector",
+        "3dModel": "7SPinConnector",
+        "originTo": "pcb",
+        "topBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 196, "y": 30, "z": 100},
+                "offset": {"x": 0, "y": 0, "z": 50}
+            }
+        ],
+        "bottomBoxes" : [],
+        "sideBoxes" : [],
+        "sideBoxesMaleShape" : [],
+        "sideBoxesHole": [],
+        "topBoxesHole": [
+            {
+                "shape": "box",
+                "box": {"x": 196, "y": 30, "z": 500},
+                "offset": {"x": 0, "y": 0, "z": 250}
+            }
+        ],
+        "bottomBoxesHole": []
+    },
+    {
+        "name": "1x5 Pin Connector",
+        "3dModel": "5SPinConnector",
+        "originTo": "pcb",
+        "topBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 140, "y": 30, "z": 100},
+                "offset": {"x": 0, "y": 0, "z": 50}
+            }
+        ],
+        "bottomBoxes" : [],
+        "sideBoxes" : [],
+        "sideBoxesMaleShape" : [],
+        "sideBoxesHole": [],
+        "topBoxesHole": [
+            {
+                "shape": "box",
+                "box": {"x": 140, "y": 30, "z": 500},
+                "offset": {"x": 0, "y": 0, "z": 250}
+            }
+        ],
+        "bottomBoxesHole": []
+    },
+    {
+        "name": "3x2 Pin Connector 90",
+        "3dModel": "3PPinConnector90",
+        "originTo": "side",
+        "topBoxes" : [],
+        "bottomBoxes" : [],
+        "sideBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 140, "y": 80, "z": 60},
+                "offset": {"x": 0, "y": 0, "z": 0}
+            }
+        ],
+        "sideBoxesMaleShape" : [],
+        "sideBoxesHole": [],
+        "topBoxesHole": [],
+        "bottomBoxesHole": []
+    },
+    {
+        "name": "3x1 Pin Connector 90",
+        "3dModel": "3SPinConnector90",
+        "originTo": "side",
+        "topBoxes" : [],
+        "bottomBoxes" : [],
+        "sideBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 80, "y": 80, "z": 34},
+                "offset": {"x": 0, "y": 0, "z": 0}
+            }
+        ],
+        "sideBoxesMaleShape" : [],
+        "sideBoxesHole": [],
+        "topBoxesHole": [],
+        "bottomBoxesHole": []
+    },
+    {
+        "name": "20x2 Pin Connector 90",
+        "3dModel": "20PPinConnector90",
+        "originTo": "side",
+        "topBoxes" : [],
+        "bottomBoxes" : [],
+        "sideBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 140, "y": 511, "z": 60},
+                "offset": {"x": 0, "y": 0, "z": 0}
+            }
+        ],
+        "sideBoxesMaleShape" : [],
+        "sideBoxesHole": [],
+        "topBoxesHole": [],
+        "bottomBoxesHole": []
+    },
+    {
+        "name": "10x2 Pin Connector 90",
+        "3dModel": "10PPinConnector90",
+        "originTo": "side",
+        "topBoxes" : [],
+        "bottomBoxes" : [],
+        "sideBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 140, "y": 257, "z": 60},
+                "offset": {"x": 0, "y": 0, "z": 0}
+            }
+        ],
+        "sideBoxesMaleShape" : [],
+        "sideBoxesHole": [],
+        "topBoxesHole": [],
+        "bottomBoxesHole": []
+    },
+    {
+        "name": "17x1 Pin Connector",
+        "3dModel": "17SPinConnector",
+        "originTo": "pcb",
+        "topBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 435, "y": 28, "z": 100},
+                "offset": {"x": 0, "y": 0, "z": 50}
+            }
+        ],
+        "bottomBoxes" : [],
+        "sideBoxes" : [],
+        "sideBoxesMaleShape" : [],
+        "sideBoxesHole": [],
+        "topBoxesHole": [
+            {
+                "shape": "box",
+                "box": {"x": 435, "y": 28, "z": 500},
+                "offset": {"x": 0, "y": 0, "z": 250}
+            }
+        ],
+        "bottomBoxesHole": []
+    },
+    {
+        "name": "Heatsink 11x11x14mm",
+        "3dModel": "HeatSink11x11x14mm",
+        "originTo": "pcb",
+        "topBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 113, "y": 113, "z": 150},
+                "offset": {"x": 0, "y": 0, "z": 75}
+            }
+        ],
+        "bottomBoxes" : [],
+        "sideBoxes" : [],
+        "sideBoxesMaleShape" : [],
+        "sideBoxesHole": [],
+        "topBoxesHole": [
+            {
+                "shape": "box",
+                "box": {"x": 113, "y": 113, "z": 500},
+                "offset": {"x": 0, "y": 0, "z": 250}
+            }
+        ],
+        "bottomBoxesHole": []
+    },
+    {
+        "name": "Heatsink 17x17x15mm",
+        "3dModel": "HeatSink17x17x15mm",
+        "originTo": "pcb",
+        "topBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 173, "y": 173, "z": 160},
+                "offset": {"x": 0, "y": 0, "z": 80}
+            }
+        ],
+        "bottomBoxes" : [],
+        "sideBoxes" : [],
+        "sideBoxesMaleShape" : [],
+        "sideBoxesHole": [],
+        "topBoxesHole": [
+            {
+                "shape": "box",
+                "box": {"x": 173, "y": 173, "z": 500},
+                "offset": {"x": 0, "y": 0, "z": 250}
+            }
+        ],
+        "bottomBoxesHole": []
+    },
+    {
+        "name": "USB 3 Type C",
+        "3dModel": "USB3TypCSM90",
+        "originTo": "side",
+        "topBoxes" : [],
+        "bottomBoxes" : [],
+        "sideBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 95, "y": 100, "z": 35},
+                "offset": {"x": 0, "y": 0, "z": 17}
+            }
+        ],
+        "sideBoxesMaleShape" : [],
+        "sideBoxesHole": [],
+        "topBoxesHole": [],
+        "bottomBoxesHole": []
+    },
+    {
+        "name": "USB2 Type A",
+        "3dModel": "USB2SM90",
+        "originTo": "side",
+        "topBoxes" : [],
+        "bottomBoxes" : [],
+        "sideBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 182, "y": 152, "z": 79},
+                "offset": {"x": 0, "y": 0, "z": 0}
+            }
+        ],
+        "sideBoxesMaleShape" : [],
+        "sideBoxesHole": [],
+        "topBoxesHole": [],
+        "bottomBoxesHole": []
+    },
+    {
+        "name": "PowerJack6.4mm",
+        "3dModel": "PowerJack6.4",
+        "originTo": "side",
+        "topBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 100, "y": 145, "z": 115},
+                "offset": {"x": 0, "y": -70, "z": 58}
+            }
+        ],
+        "bottomBoxes" : [],
+        "sideBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 100, "y": 145, "z": 115},
+                "offset": {"x": 0, "y": -70, "z": 58}
+            }
+        ],
+        "sideBoxesMaleShape" : [],
+        "sideBoxesHole": [
+            {
+                "shape": "box",
+                "box": {"x": 100, "y": 500, "z": 115},
+                "offset": {"x": 0, "y": 0, "z": 58}
+            }
+        ],
+        "topBoxesHole": [],
+        "bottomBoxesHole": []
+    },
+    {
+        "name": "10x1 Pin Connector Female",
+        "3dModel": "10SPingFemConnector",
+        "originTo": "pcb",
+        "topBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 265, "y": 35, "z": 100},
+                "offset": {"x": 0, "y": 0, "z": 50}
+            }
+        ],
+        "bottomBoxes" : [],
+        "sideBoxes" : [],
+        "sideBoxesMaleShape" : [],
+        "sideBoxesHole": [],
+        "topBoxesHole": [
+            {
+                "shape": "box",
+                "box": {"x": 265, "y": 35, "z": 500},
+                "offset": {"x": 0, "y": 0, "z": 250}
+            }
+        ],
+        "bottomBoxesHole": []
+    },
+    {
+        "name": "8x1 Pin Connector Female",
+        "3dModel": "8SPingFemConnector",
+        "originTo": "pcb",
+        "topBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 215, "y": 35, "z": 100},
+                "offset": {"x": 0, "y": 0, "z": 50}
+            }
+        ],
+        "bottomBoxes" : [],
+        "sideBoxes" : [],
+        "sideBoxesMaleShape" : [],
+        "sideBoxesHole": [],
+        "topBoxesHole": [
+            {
+                "shape": "box",
+                "box": {"x": 215, "y": 35, "z": 500},
+                "offset": {"x": 0, "y": 0, "z": 250}
+            }
+        ],
+        "bottomBoxesHole": []
+    },
+    {
+        "name": "6x1 Pin Connector Female",
+        "3dModel": "6SPingFemConnector",
+        "originTo": "pcb",
+        "topBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 165, "y": 35, "z": 100},
+                "offset": {"x": 0, "y": 0, "z": 50}
+            }
+        ],
+        "bottomBoxes" : [],
+        "sideBoxes" : [],
+        "sideBoxesMaleShape" : [],
+        "sideBoxesHole": [],
+        "topBoxesHole": [
+            {
+                "shape": "box",
+                "box": {"x": 165, "y": 35, "z": 500},
+                "offset": {"x": 0, "y": 0, "z": 250}
+            }
+        ],
+        "bottomBoxesHole": []
+    },
+    {
+        "name": "2x1 Pin Connector Female",
+        "3dModel": "2SPingFemConnector",
+        "originTo": "pcb",
+        "topBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 55, "y": 35, "z": 100},
+                "offset": {"x": 0, "y": 0, "z": 50}
+            }
+        ],
+        "bottomBoxes" : [],
+        "sideBoxes" : [],
+        "sideBoxesMaleShape" : [],
+        "sideBoxesHole": [],
+        "topBoxesHole": [
+            {
+                "shape": "box",
+                "box": {"x": 55, "y": 35, "z": 500},
+                "offset": {"x": 0, "y": 0, "z": 250}
+            }
+        ],
+        "bottomBoxesHole": []
+    },
+    {
+        "name": "2x1 Screw Header",
+        "3dModel": "2SScrewHeader",
+        "originTo": "side",
+        "topBoxes" : [],
+        "bottomBoxes" : [],
+        "sideBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 80, "y": 70, "z": 94},
+                "offset": {"x": 0, "y": -35, "z": 47}
+            }
+        ],
+        "sideBoxesMaleShape" : [],
+        "sideBoxesHole": [
+            {
+                "shape": "box",
+                "box": {"x": 70, "y": 500, "z": 45},
+                "offset": {"x": 0, "y": 0, "z": 32}
+            }
+        ],
+        "topBoxesHole": [],
+        "bottomBoxesHole": []
+    },
+    {
+        "name": "1x6 right angle header",
+        "3dModel": "6SPinConnector90",
+        "originTo": "side",
+        "topBoxes" : [],
+        "bottomBoxes" : [],
+        "sideBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 156, "y": 90, "z": 40},
+                "offset": {"x": 0, "y": -45, "z": 40}
+            }
+        ],
+        "sideBoxesMaleShape" : [],
+        "sideBoxesHole": [
+            {
+                "shape": "box",
+                "box": {"x": 156, "y": 500, "z": 40},
+                "offset": {"x": 0, "y": -45, "z": 40}
+            }
+        ],
+        "topBoxesHole": [],
+        "bottomBoxesHole": []
+    },
+    {
+        "name": "1x3 Pin Connector",
+        "3dModel": "3SPinConnector",
+        "originTo": "pcb",
+        "topBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 85, "y": 30, "z": 100},
+                "offset": {"x": 0, "y": 0, "z": 50}
+            }
+        ],
+        "bottomBoxes" : [],
+        "sideBoxes" : [],
+        "sideBoxesMaleShape" : [],
+        "sideBoxesHole": [],
+        "topBoxesHole": [
+            {
+                "shape": "box",
+                "box": {"x": 85, "y": 30, "z": 500},
+                "offset": {"x": 0, "y": 0, "z": 250}
+            }
+        ],
+        "bottomBoxesHole": []
+    },
+    {
+        "name": "1x6 Pin Connector",
+        "3dModel": "6SPinConnector",
+        "originTo": "pcb",
+        "topBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 170, "y": 30, "z": 100},
+                "offset": {"x": 0, "y": 0, "z": 50}
+            }
+        ],
+        "bottomBoxes" : [],
+        "sideBoxes" : [],
+        "sideBoxesMaleShape" : [],
+        "sideBoxesHole": [],
+        "topBoxesHole": [
+            {
+                "shape": "box",
+                "box": {"x": 170, "y": 30, "z": 500},
+                "offset": {"x": 0, "y": 0, "z": 0}
+            }
+        ],
+        "bottomBoxesHole": []
+    },
+    {
+        "name": "Relay 5V on-off",
+        "3dModel": "RelaySTPD5V",
+        "originTo": "pcb",
+        "topBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 170, "y": 205, "z": 160},
+                "offset": {"x": 0, "y": 0, "z": 80}
+            }
+        ],
+        "bottomBoxes" : [],
+        "sideBoxes" : [],
+        "sideBoxesMaleShape" : [],
+        "sideBoxesHole": [],
+        "topBoxesHole": [
+            {
+                "shape": "box",
+                "box": {"x": 170, "y": 205, "z": 500},
+                "offset": {"x": 0, "y": 0, "z": 0}
+            }
+        ],
+        "bottomBoxesHole": []
+    },
+    {
+        "name": "Screw Connector 3x5.08mm",
+        "3dModel": "ScrewConnector3x5.08mm",
+        "originTo": "side",
+        "topBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 155, "y": 80, "z": 110},
+                "offset": {"x": 0, "y": -40, "z": 55}
+            }
+        ],
+        "bottomBoxes" : [],
+        "bottomBoxesHole" : [],
+        "sideBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 155, "y": 80, "z": 110},
+                "offset": {"x": 0, "y": -40, "z": 55}
+            }
+        ],
+        "sideBoxesMaleShape" : [],
+        "sideBoxesHole": [
+            {
+                "shape": "box",
+                "box": {"x": 140, "y": 500, "z": 30},
+                "offset": {"x": 0, "y": 0, "z": 33}
+            }
+        ],
+        "topBoxesHole": []
+    },
+    {
+        "name": "Screw Holes for Connector 3x5.08mm",
+        "3dModel": "",
+        "originTo": "pcb",
+        "topBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 155, "y": 50, "z": 110},
+                "offset": {"x": 0, "y": 0, "z": 50}
+            }
+        ],
+        "bottomBoxes" : [],
+        "sideBoxes" : [],
+        "sideBoxesMaleShape" : [],
+        "sideBoxesHole": [],
+        "topBoxesHole": [
+            {
+                "shape": "box",
+                "box": {"x": 155, "y": 50, "z": 500},
+                "offset": {"x": 0, "y": 0, "z": 50}
+            }
+        ],
+        "bottomBoxesHole": []
+    },
+    {
+        "name": "Screw Connector 6x5.08mm",
+        "3dModel": "ScrewConnector6x5.08mm",
+        "originTo": "side",
+        "topBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 320, "y": 80, "z": 110},
+                "offset": {"x": 0, "y": -40, "z": 50}
+            }
+        ],
+        "bottomBoxes" : [],
+        "sideBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 300, "y": 80, "z": 60},
+                "offset": {"x": 0, "y": -40, "z": 30}
+            }
+        ],
+        "sideBoxesMaleShape" : [],
+        "sideBoxesHole": [
+            {
+                "shape": "box",
+                "box": {"x": 300, "y": 500, "z": 30},
+                "offset": {"x": 0, "y": 0, "z": 33}
+            }
+        ],
+        "topBoxesHole": [],
+        "bottomBoxesHole": []
+    },
+    {
+        "name": "Screw Holes for Connector 6x5.08mm",
+        "3dModel": "",
+        "originTo": "pcb",
+        "topBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 320, "y": 50, "z": 110},
+                "offset": {"x": 0, "y": 0, "z": 50}
+            }
+        ],
+        "bottomBoxes" : [],
+        "sideBoxes" : [],
+        "sideBoxesMaleShape" : [],
+        "sideBoxesHole": [],
+        "topBoxesHole": [
+            {
+                "shape": "box",
+                "box": {"x": 320, "y": 50, "z": 500},
+                "offset": {"x": 0, "y": 0, "z": 50}
+            }
+        ],
+        "bottomBoxesHole": []
+    },
+    {
+        "name": "Multiwatt Heatsink 23x16x25mm",
+        "3dModel": "MultiwattHeatsink23x16x25",
+        "originTo": "pcb",
+        "topBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 240, "y": 170, "z": 260},
+                "offset": {"x": 0, "y": 0, "z": 130}
+            }
+        ],
+        "bottomBoxes" : [],
+        "sideBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 240, "y": 170, "z": 260},
+                "offset": {"x": 0, "y": 0, "z": 130}
+            }
+        ],
+        "sideBoxesMaleShape" : [],
+        "sideBoxesHole": [],
+        "topBoxesHole": [
+            {
+                "shape": "box",
+                "box": {"x": 260, "y": 190, "z": 500},
+                "offset": {"x": 0, "y": 0, "z": 250}
+            }
+        ],
+        "bottomBoxesHole": []
+    },
+    {
+        "name": "Screw Connector 2x5.08mm",
+        "3dModel": "ScrewConnector2x5.08mm",
+        "originTo": "side",
+        "topBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 100, "y": 80, "z": 110},
+                "offset": {"x": 0, "y": -40, "z": 55}
+            }
+        ],
+        "bottomBoxes" : [],
+        "sideBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 100, "y": 80, "z": 110},
+                "offset": {"x": 0, "y": -40, "z": 55}
+            }
+        ],
+        "sideBoxesMaleShape" : [],
+        "sideBoxesHole": [
+            {
+                "shape": "box",
+                "box": {"x": 90, "y": 500, "z": 30},
+                "offset": {"x": 0, "y": 0, "z": 33}
+            }
+        ],
+        "topBoxesHole": [],
+        "bottomBoxesHole": []
+    },
+    {
+        "name": "Capacitor",
+        "3dModel": "2SPinConnector",
+        "originTo": "pcb",
+        "topBoxes" : [
+            {
+                "shape": "cylinder",
+                "d": 100,
+                "h": 120,
+                "offset": {"x": 0, "y": 0, "z": 60}
+            }
+        ],
+        "bottomBoxes" : [],
+        "sideBoxes" : [],
+        "sideBoxesMaleShape" : [],
+        "sideBoxesHole": [],
+        "topBoxesHole": [],
+        "bottomBoxesHole": []
+    },
+    {
+        "name": "18x2 Pin Connector Female",
+        "3dModel": "18PPinFemConnector",
+        "originTo": "pcb",
+        "topBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 470, "y": 60, "z": 100},
+                "offset": {"x": 0, "y": 0, "z": 50}
+            }
+        ],
+        "bottomBoxes" : [],
+        "sideBoxes" : [],
+        "sideBoxesMaleShape" : [],
+        "sideBoxesHole": [],
+        "topBoxesHole": [
+            {
+                "shape": "box",
+                "box": {"x": 470, "y": 60, "z": 500},
+                "offset": {"x": 0, "y": 0, "z": 0}
+            }
+        ],
+        "bottomBoxesHole": []
+    },
+    {
+        "name": "USB 2 Type B",
+        "3dModel": "USB2TypB",
+        "originTo": "side",
+        "topBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 125, "y": 160, "z": 110},
+                "offset": {"x": 0, "y": 0, "z": 0}
+            }
+        ],
+        "bottomBoxes" : [],
+        "sideBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 125, "y": 160, "z": 110},
+                "offset": {"x": 0, "y": -80, "z": 55}
+            }
+        ],
+        "sideBoxesMaleShape" : [],
+        "sideBoxesHole": [
+            {
+                "shape": "box",
+                "box": {"x": 125, "y": 500, "z": 110},
+                "offset": {"x": 0, "y": 0, "z": 55}
+            }
+        ],
+        "topBoxesHole": [
+            {
+                "shape": "box",
+                "box": {"x": 125, "y": 160, "z": 110},
+                "offset": {"x": 0, "y": 0, "z": 0}
+            }
+        ],
+        "bottomBoxesHole": []
+    },
+    {
+        "name": "40x2 Femal Pin Connector",
+        "3dModel": "20PPinFemConnector",
+        "originTo": "pcb",
+        "topBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 520, "y": 55, "z": 85},
+                "offset": {"x": 0, "y": 0, "z": 0}
+            }
+        ],
+        "bottomBoxes" : [],
+        "sideBoxes" : [],
+        "sideBoxesMaleShape" : [],
+        "sideBoxesHole": [],
+        "topBoxesHole": [
+            {
+                "shape": "box",
+                "box": {"x": 520, "y": 55, "z": 500},
+                "offset": {"x": 0, "y": 0, "z": 50}
+            }
+        ],
+        "bottomBoxesHole": []
+    },
+    {
+        "name": "4x3 Pin Connector 90",
+        "3dModel": "4TPinConnector90",
+        "originTo": "side",
+        "topBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 120, "y": 170, "z": 80},
+                "offset": {"x": 0, "y": 0, "z": 0}
+            }
+        ],
+        "bottomBoxes" : [],
+        "sideBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 120, "y": 170, "z": 80},
+                "offset": {"x": 0, "y": -85, "z": 40}
+            }
+        ],
+        "sideBoxesMaleShape" : [],
+        "sideBoxesHole": [
+            {
+                "shape": "box",
+                "box": {"x": 120, "y": 500, "z": 80},
+                "offset": {"x": 0, "y": -85, "z": 40}
+            }
+        ],
+        "topBoxesHole": [],
+        "bottomBoxesHole": []
+    },
+    {
+        "name": "5x Screw Header 2.54mm",
+        "3dModel": "ScrewConnector5x2.54mm",
+        "originTo": "side",
+        "topBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 130, "y": 70, "z": 90},
+                "offset": {"x": 0, "y": 0, "z": 0}
+            }
+        ],
+        "bottomBoxes" : [],
+        "sideBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 130, "y": 70, "z": 50},
+                "offset": {"x": 0, "y": -35, "z": 25}
+            }
+        ],
+        "sideBoxesMaleShape" : [],
+        "sideBoxesHole": [
+            {
+                "shape": "box",
+                "box": {"x": 130, "y": 500, "z": 50},
+                "offset": {"x": 0, "y": -35, "z": 25}
+            }
+        ],
+        "topBoxesHole": [],
+        "bottomBoxesHole": []
+    },
+    {
+        "name": "5x Screw Header 3.5mm",
+        "3dModel": "ScrewConnector5x3.5mm",
+        "originTo": "side",
+        "topBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 185, "y": 70, "z": 90},
+                "offset": {"x": 0, "y": 0, "z": 0}
+            }
+        ],
+        "bottomBoxes" : [],
+        "sideBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 185, "y": 70, "z": 50},
+                "offset": {"x": 0, "y": -35, "z": 25}
+            }
+        ],
+        "sideBoxesMaleShape" : [],
+        "sideBoxesHole": [
+            {
+                "shape": "box",
+                "box": {"x": 185, "y": 500, "z": 50},
+                "offset": {"x": 0, "y": -35, "z": 25}
+            }
+        ],
+        "topBoxesHole": [],
+        "bottomBoxesHole": []
+    },
+    {
+        "name": "4x1 Pin Connector 90",
+        "3dModel": "4SPinConnector90",
+        "originTo": "side",
+        "topBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 120, "y": 90, "z": 40},
+                "offset": {"x": 0, "y": 0, "z": 25}
+            }
+        ],
+        "bottomBoxes" : [],
+        "sideBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 120, "y": 90, "z": 40},
+                "offset": {"x": 0, "y": -45, "z": 40}
+            }
+        ],
+        "sideBoxesMaleShape" : [],
+        "sideBoxesHole": [
+            {
+                "shape": "box",
+                "box": {"x": 120, "y": 500, "z": 40},
+                "offset": {"x": 0, "y": -45, "z": 40}
+            }
+        ],
+        "topBoxesHole": [],
+        "bottomBoxesHole": []
+    },
+    {
+        "name": "Joystick 26mm",
+        "3dModel": "Joystick26mm",
+        "originTo": "side",
+        "topBoxes" : [
+            {
+                "shape": "cylinder",
+                "d": 270,
+                "h": 320,
+                "offset": {"x": 0, "y": 0, "z": 0}
+            }
+        ],
+        "bottomBoxes" : [],
+        "sideBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 120, "y": 90, "z": 40},
+                "offset": {"x": 0, "y": -45, "z": 40}
+            }
+        ],
+        "sideBoxesMaleShape" : [],
+        "sideBoxesHole": [
+            {
+                "shape": "cylinder",
+                "d": 270,
+                "h": 1000,
+                "offset": {"x": 0, "y": 0, "z": 0}
+            }
+        ],
+        "topBoxesHole": [],
+        "bottomBoxesHole": []
+    },
+    {
+        "name": "5x1 Pin Connector 90",
+        "3dModel": "5SPinConnector90",
+        "originTo": "side",
+        "topBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 150, "y": 90, "z": 40},
+                "offset": {"x": 0, "y": 0, "z": 25}
+            }
+        ],
+        "bottomBoxes" : [],
+        "sideBoxes" : [
+            {
+                "shape": "box",
+                "box": {"x": 150, "y": 90, "z": 40},
+                "offset": {"x": 0, "y": -45, "z": 40}
+            }
+        ],
+        "sideBoxesMaleShape" : [],
+        "sideBoxesHole": [
+            {
+                "shape": "box",
+                "box": {"x": 150, "y": 500, "z": 40},
+                "offset": {"x": 0, "y": -45, "z": 40}
+            }
+        ],
+        "topBoxesHole": [],
+        "bottomBoxesHole": []
+    }
+]}

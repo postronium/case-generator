@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-09082018-124906";"";
+"REFERENCE";"SJ2-35813A-SMT-TR";"";
+"TraceParts.PartTitle";"SJ2-3581X-SMT Series - 3.5 mm, Stereo, Right Angle, Surface Mount (SMT), Audio Jack Connector";"";
+"TraceParts.InstanceId";"10-09082018-124906BCC9E5CY0V2CQJYCGNVQC6NMP";"";
+"DESIGN";"3 conductors, 3.5mm, SMT Audio Jack";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"CUI";"";
+"TraceParts.PartVersion";"1.0.0";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"CUI:10-09082018-124906";"";

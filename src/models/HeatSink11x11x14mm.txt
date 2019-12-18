@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"30-22012018-106886";"";
+"REFERENCE";"ICK BGA 11 x 11 x 14";"";
+"TraceParts.PartTitle";"ICK BGA 11 x 11 x 14, for IC design BGA and others, 11 x 11 x 14 mm (B x L x H)";"";
+"TraceParts.InstanceId";"30-22012018-1068866EEFL7ZJ2HBM9H7DM9E9BYN6E";"";
+"DESIGN";"Heatsinks for BGA";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"Fischer Elektronik GmbH & Co. KG";"";
+"TraceParts.PartVersion";"1.0.1";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"FISCHERELEKTRONIK:30-22012018-106886";"";

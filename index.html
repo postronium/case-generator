@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <title>Raspberry PI case generator</title>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+        <link rel="stylesheet" type="text/css" href="stripe.css">
+
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <style>
+            html, body {
+                height: 100%;
+                margin: 0px;
+                padding: 0px;
+                overflow: hidden;
+            }
+
+            #root {
+                height: 100%;
+            }
+
+            #preview {
+                margin: 0px;
+                padding: 0px;
+            }
+
+            #parameters {
+                height: 100%;
+            }
+
+            .scroll {
+                overflow-y: scroll;
+                height: 100%;
+                margin-bottom: 50px;
+            }
+
+            .row {
+                margin-left: 0px;
+                margin-right: 0px;
+            }
+
+            input[type="number"] {
+                width: 90px;
+            }
+
+            .custom_pcb {
+                padding: 3px;
+                border: solid;
+                border-width: 3px;
+            }
+
+            .card-header {
+                padding: 0.25rem 1rem;
+            }
+
+            .case-option-param {
+                background-color: #FFF;
+            }
+
+            .indent {
+                margin-left: 30px;
+            }
+
+            h5 {
+                /*margin: 5px;*/
+            }
+
+            .border {
+                /*margin: 5px;*/
+                padding: 5px;
+                border-radius: 4px;
+                margin-top: 5px;
+            }
+
+            .item-separation {
+                margin-top: 12px;
+                margin-bottom: 12px;
+            }
+
+            .short {
+                width: 150px;
+                display: inline-block;
+            }
+
+            /* Bootstrap modifications */
+            .custom-control {
+                margin-top: 4px;
+                margin-bottom: 4px;
+            }
+
+            .input-group {
+                width: 90%;
+                margin-top: 4px;
+                margin-bottom: 4px;
+            }
+
+            .btn-primary {
+                margin: 20px;
+            }
+        </style>
+    </head>
+    <body>
+        <script src="./src/lib/three.js"></script>
+        <script src="./src/lib/csg.js"></script>
+        <script src="./src/lib/orbitControls.js"></script>
+        <script src="./src/lib/CanvasRenderer.js"></script>
+        <script src="./src/lib/Projector.js"></script>
+        <script src="./src/lib/STLLoader.js"></script>
+        <script src="./src/lib/SAT.min.js"></script>
+        <script src="./src/lib/SimplifyModifier.js"></script>
+        <script src="https://js.stripe.com/v3/"></script>
+
+
+        <div class="row" id="root">
+            <div id="parameters" class="col-sm-3" style="background-color: #FFF;">
+
+            </div>
+
+            <div id="preview" class="col-sm-9"></div>
+        </div>-->
+
+        <script src="./dist/bundle.js"></script>
+
+        <!--<script src="./src/components/stripe.js"></script>-->
+
+        <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+
+    </body>
+</html>

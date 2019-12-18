@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-15052018-124242";"";
+"REFERENCE";"UJ31-CH-3-SMT-TR";"";
+"TraceParts.PartTitle";"UJ31-CH-3-SMT-TR - Type C, USB 3.1 Gen 2, Right Angle, Surface Mount (SMT), USB Receptacle, RoHS Compliant";"";
+"TraceParts.InstanceId";"10-15052018-124242DV7V7BCOXTK2E7R3F2Z64AY99";"";
+"DESIGN";"Type C, USB 3.1 Gen 2, Right Angle, Surface Mount (SMT), USB Receptacle";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"CUI";"";
+"TraceParts.PartVersion";"1.0.1";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"CUI:10-15052018-124242";"";

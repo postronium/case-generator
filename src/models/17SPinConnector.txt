@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-28072018-060532";"";
+"REFERENCE";"1-966573-7";"";
+"TraceParts.PartTitle";"Multiple Configuration PCB Headers & Receptacles";"";
+"TraceParts.InstanceId";"10-28072018-060532BZJWD2RUZW1M6K3DHWOPN4YAA";"";
+"DESIGN";"17P MOD2 PIN HEADER WITH A-PIN";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"TE Connectivity";"";
+"TraceParts.PartVersion";"1.0.0";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"TE_CONNECTIVITY_GLOBAL:10-28072018-060532";"";

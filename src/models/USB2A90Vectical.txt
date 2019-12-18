@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-30072018-075893";"";
+"REFERENCE";"440260-2";"";
+"TraceParts.PartTitle";"USB Connectors";"";
+"TraceParts.InstanceId";"10-30072018-0758936I715E3Q3EP8NE180LRXVCS2L";"";
+"DESIGN";"USB ASSY R/A FLAG W/PBT HSG";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"TE Connectivity";"";
+"TraceParts.PartVersion";"1.0.0";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"TE_CONNECTIVITY_GLOBAL:10-30072018-075893";"";

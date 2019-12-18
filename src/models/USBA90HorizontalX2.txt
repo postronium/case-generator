@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-30072018-106738";"";
+"REFERENCE";"5787617-2";"";
+"TraceParts.PartTitle";"USB Connectors";"";
+"TraceParts.InstanceId";"10-30072018-1067384BNVFNAKWZCBLRM2DKR2UTYXB";"";
+"DESIGN";"RECP ASSY, R/A, STACKED, THRU-HOLE, USB,";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"TE Connectivity";"";
+"TraceParts.PartVersion";"1.0.0";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"TE_CONNECTIVITY_GLOBAL:10-30072018-106738";"";
