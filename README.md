@@ -3,6 +3,9 @@
 This is an open-source project of a web application to generate printable 3D models of Raspberry pi cases.
 The generators also support Arduino, Sensors, and many other electronic components.
 
+Demo : https://generator.pi-case.com/
+
+
 ## Setup
 1.    Clone the Repo.
 2.    Install dependencies with `npm install`.
