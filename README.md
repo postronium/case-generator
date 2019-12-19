@@ -10,7 +10,7 @@ The generators also support Arduino, Sensors, and many other electronic componen
 4.    Make a symbolic link from your webserver folder to the repo.
 
 ## TODOs
-Fix vulnerabilities of dependencies.
-Fix holes in mesh before Download the Model.
-Add More RPI, Arduino models and sensors.
-Improve Graphics
+1.    Fix vulnerabilities of dependencies.
+2.    Fix holes in mesh before Download the Model.
+3.    Add More RPI, Arduino models and sensors.
+4.    Improve Graphics.
